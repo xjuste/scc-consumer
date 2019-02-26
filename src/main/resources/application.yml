@@ -1,0 +1,5 @@
+outserver.api:
+  domain: http://localhost
+  port: 8091
+  endpoint: /api/endpoint1
+
